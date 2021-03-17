@@ -1,2 +1,5 @@
-# -mouse-cursor
+# mouse-cursor
 This is just the mouse cursor which looks like some called +
+
+
+just goto the file named "+ cursor" and apply them
