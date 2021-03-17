@@ -2,7 +2,7 @@
 This is just the mouse cursor which looks like some called +
 note : (its only for Windows [i don't know about mac or linux])
 
-Be sure to check the latest release and use those not the old once
+Be sure to check the latest release and use those not the old once...
 
 ### HOW TO USE
 
