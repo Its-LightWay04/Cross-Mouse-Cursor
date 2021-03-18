@@ -7,8 +7,7 @@ Be sure to check the latest release and use those not the old once...
 ### HOW TO USE
 
 Step 1: goto the lates release and click on the "Cursors" file to download it...............
-Step 2: Extract the .zip you just downloaded and you are good to go...............................
-Extras: You can use the "move.cur" cursor as the 'Vertical, horizontal and diagnol resize' cursors also
+Step 2: Extract the .zip you just downloaded and you are good to go.
 
 
 Feel free to contact me if you have any problems:
