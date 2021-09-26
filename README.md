@@ -12,5 +12,5 @@ Step 3: Right click on the "install.inf" file and click install then you are goo
 
 
 Feel free to contact me if you have any problems:
-Discord: Its-LightWay_04#3701
+Discord: iamLightway#3701
 Discord server: https://discord.gg/m6JKZqY7hr
