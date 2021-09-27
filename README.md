@@ -20,4 +20,5 @@ Step 3: Right click on the "install.inf" file and click install from the menu an
 
 ### CONTACT
 Discord: iamLightway#3701
+
 Discord server: https://discord.gg/m6JKZqY7hr
