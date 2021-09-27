@@ -4,7 +4,7 @@
 This is just the mouse cursor which looks like something called +.
 note : (its only for Windows [i don't know about mac or linux])
 
-Be sure to check the latest release and use those not the old once... [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Its-LightWay04/-mouse-cursor/releases)
+Be sure to check the [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Its-LightWay04/-mouse-cursor/releases) and use those not the old once...
 
 
 ### HOW TO USE
