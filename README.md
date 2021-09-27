@@ -4,7 +4,8 @@
 This is just the mouse cursor which looks like something called +.
 note : (its only for Windows [i don't know about mac or linux])
 
-Be sure to check the latest release and use those not the old once...
+Be sure to check the latest release and use those not the old once... [![Latest release](https://badgen.net/github/release/Its-LightWay_04/-mouse-cursor)](https://github.com/Its-LightWay_04/-mouse-cursor/releases)
+
 
 ### HOW TO USE
 
