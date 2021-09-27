@@ -16,6 +16,10 @@ Step 2: Extract the .zip you just downloaded...............
 Step 3: Right click on the "install.inf" file and click install from the menu and you're good to go. :)
 
 
+
+
 Feel free to contact me if you have any problems:
+
 Discord: iamLightway#3701
+
 Discord server: https://discord.gg/m6JKZqY7hr
