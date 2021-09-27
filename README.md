@@ -1,4 +1,6 @@
 # MOUSE CURSOR
+[![Github All Releases](https://img.shields.io/github/downloads/Its-LightWay04/-mouse-cursor/total.svg)]()
+
 This is just the mouse cursor which looks like something called +.
 note : (its only for Windows [i don't know about mac or linux])
 
