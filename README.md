@@ -8,7 +8,7 @@ Be sure to check the [![Latest release](https://badgen.net/github/release/Naeree
 
 ---
 
-### HOW TO USE
+### **HOW TO USE**
 
 Step 1: goto the lates release and click on the "Cursors" file to download it...............  
 
@@ -19,5 +19,5 @@ Step 3: Right click on the "install.inf" file and click install from the menu an
 
 ---
 
-### CONTACT
+### **CONTACT**
 Discord: iamLightway#4960
