@@ -6,6 +6,7 @@ note : (its only for Windows [i don't know about mac or linux])
 
 Be sure to check the [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Its-LightWay04/-mouse-cursor/releases) and use those not the old once...
 
+---
 
 ### HOW TO USE
 
@@ -16,7 +17,7 @@ Step 2: Extract the .zip you just downloaded...............
 Step 3: Right click on the "install.inf" file and click install from the menu and you're good to go. :)  
 
 
-
+---
 
 ### CONTACT
 Discord: iamLightway#4960
